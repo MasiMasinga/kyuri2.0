@@ -9,7 +9,7 @@ accordingly. Leveraging Tech to solve GBV.
 
 ## Whats Needed
 
-* ~~OBoarding & Splash Screen~~
+* ~~OnBoarding & Splash Screen~~
 * Login & Sign In Screen
 * Navigation & Dashboard Screen
 * ChatBot Screen
