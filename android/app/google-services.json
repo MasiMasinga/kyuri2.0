@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070284103291",
+    "firebase_url": "https://kyuri-4c35e.firebaseio.com",
+    "project_id": "kyuri-4c35e",
+    "storage_bucket": "kyuri-4c35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070284103291:android:9167ad179f4a5ef9608cde",
+        "android_client_info": {
+          "package_name": "com.kyuri.kyuri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070284103291-rss9pqhsf20fcdudsk72olsovunl13s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDJ1uDVyFLDYSdC5sUPsIC62XLp9b99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070284103291-rss9pqhsf20fcdudsk72olsovunl13s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

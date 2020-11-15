@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:kyuri/components/default_button.dart';
 import 'package:kyuri/constants.dart';
+import 'package:kyuri/screens/sign_in/sign_in_screen.dart';
 import 'package:kyuri/screens/splash/components/splash_content.dart';
 import 'package:kyuri/size_config.dart';
 
@@ -67,7 +68,9 @@ class _BodyState extends State<Body> {
                     Spacer(flex: 3),
                     DefaultButton(
                       text: 'Continue',
-                      press: () {},
+                      press: () {
+                        Navigator.pushNamed(context, SignInScreen.routeName);
+                      },
                     ),
                     Spacer(),
                   ],

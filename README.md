@@ -10,9 +10,9 @@ accordingly. Leveraging Tech to solve GBV.
 ## Whats Needed
 
 * ~~OnBoarding & Splash Screen~~
-* Login & Sign In Screen
-* Navigation & Dashboard Screen
-* ChatBot Screen
+* ~~Login & Sign In Screen~~
+* ~~Navigation & Dashboard Screen~~
+* ~~ChatBot Screen~~
 * ECommerce Store Screen
 * Tracker/Locator Screen
 * Panic Button Screen

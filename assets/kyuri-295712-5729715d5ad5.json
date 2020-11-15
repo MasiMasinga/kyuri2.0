@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kyuri-295712",
+  "private_key_id": "5729715d5ad5a4394e991e9a03249aa54bc3fe93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxH3TkZb0JTHfB\n00eDcJ43N8ltuROMzd+Fc28YTNg8g/abDWphyMuaqp15GUuLULtq5erofTytkse3\nr517MgqDAJ7RfkpsyKhNgig5E0aoHtqTxjZ7D1UuAvlFwDJTq0+wp8I7hYf4gYwp\nNGLUWx7xWDMIgfJn2HQ5cl4Ad+a2ch9A3kkBFFZ2082k1LESTrE0FRlIChE2W1q5\nIACmTvsWpDbaYsWIKVKKiJwQDjLlxOV+edKxoOUfo8u2aiRd42ZRHLIbrHUpl75g\nodqoEJr+B5yYvLHdoRVFSWDOE3VVh2pVu1gJ207Abwc+x60WoOimjRRL4qn0xQ8W\nuWHyZR+FAgMBAAECggEABUiHKyn/hmCijyCuBHdHQDZ8t2bCwucP6sCowoOMiWbq\n1GLq3dGkhHMQmEKxoQ/Xy3PWPdngpnz8202Byd1C1bQBxt1ZjCCpb2lWsEl31t82\nMt64+uFPIH74L0sSzzqFuH00iFFYtV1BUPXQ5I5Kk0c3dwxB33yir0+ON7xo1b6H\nhW2idXCUQQTAngsfL1pEAQk8minGbZ4vEqKnTRjF5WcHH5ksTBGs1f/qblq9+Vyp\nIjoXnm63xEkWsbn3/+7BxmTAousnyqe4abjyOF85wQthmWyRngVX7qfhmzPfE5BK\nP1ChQyOU0fhOlKXfV7ZjyD5eHOA+FlD97igD57GCgQKBgQD6Au6lpwQSONh7beiI\n0iRyrGl/RDBMvvNRijDOta1AcqnubgejC91yrOkCxz2yO2Dv0y/BP5G+gW8/3AK/\ndkv2YRBI7txNs6K3BeZamAOGwkk7CjjCI3OO3p3MDNDLZEF08ZARx/67qaHLsXsn\nis+xEvrEgkXfCvun7wHUNC/QPQKBgQD25gUNDe8pkqkGINz2my6jM03k/yX2fbcQ\n4ZzYIojzTNDUbyfPi6H/TLtVIs+7Ht4qot7GejMgYLoTjUWSNB0xsY8UYDFdVT3u\nI5UA5biOH7sOsciQbKLWRHmeMD1EEjA+MnPoK5r6NfoPK4ZIppscuPtt30xl6Tzh\nPub2npR46QKBgC59uxks3LHyxjb1skc3JLX6X8fdy0mKPL8N/pOB70zLxdPjvCHS\nxAReKRpuKIfrSNRwJjI+ewC9Gw36ALzP58JSPHADkw4T+I8mVrbEC+vUVz/WX8Wi\nSAvqU9etDmq0IwP3I75avYDyQ3cYcvlgc8zO5bkDLLEUXsXUyTdH2RhVAoGBAOVq\nFodqyy/19tia8La0u0EqCtcdvkirx88H1JWAgYCRf/nkzzkqpfxzcB5Lmnpk1EsJ\ny7bhFWCggEZqnpqbkgT619g3CaeP7Vu59FpBGpv1H/sndxW73BL8zYUPjd4SiIFC\noDC7U+XrAc/WwZAAP2ERAY+2TWbkso0ZxcKi15MBAoGBAL46S844cBjhWBegdGDB\nnQWeSrzmTXm5+MB7hwAHottDqrXU0IBX30GBfYzfokR1Rz7k+Wt30GQLT76Fm9kh\nWqXcv1yW2oreOP5PxIm9FOXR+IYoOowy9h7AIZktMpKeAMQAWsnBRuMldvs2GZWZ\nQ1OOhq7zUPt0Qtcr/a30GpUy\n-----END PRIVATE KEY-----\n",
+  "client_email": "kyuribot@kyuri-295712.iam.gserviceaccount.com",
+  "client_id": "114250758785408222968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kyuribot%40kyuri-295712.iam.gserviceaccount.com"
+}
